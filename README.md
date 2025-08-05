@@ -1,9 +1,9 @@
 
 # 👋 Bem-vindo, Eu sou Muhamad Costa!
 <p align="left">
-Sou estudante apaixonado por programação, <strong> matemática aplicada </strong> e <strong> análise de dados</strong>. Atualmente, estou aprofundando meus estudos em <strong>JavaScript,</strong> <strong>Programação Funcional</strong> e desenvolvimento <strong>FullStack,</strong> com foco em criar soluções reais e eficientes.<br>
-Meu interesse vai além do código: estou explorando como a matemática e a economia se conectam à tecnologia para resolver problemas do mundo real, especialmente na área de análise de dados.
-🎯 Meu objetivo é transformar conhecimento em projetos práticos — a cada dia dando passos para tornar isso possível. Aqui encontrará meus estudos, desafios, experimentos e evolução como desenvolvedor.
+Sou estudante apaixonado por programação, <strong> matemática aplicada </strong> e <strong> análise de dados</strong>. Atualmente, estou aprofundando meus estudos em <strong>JavaScript,</strong> <strong>Programação Funcional</strong> e desenvolvimento <strong>FullStack,</strong> com foco em criar soluções reais e eficientes. <br>
+<br>Meu interesse vai além do código: estou explorando como a matemática e a economia se conectam à tecnologia para resolver problemas do mundo real, especialmente na área de análise de dados.</br>
+<br>🎯 Meu objetivo é transformar conhecimento em projetos práticos — a cada dia dando passos para tornar isso possível. Aqui encontrará meus estudos, desafios, experimentos e evolução como desenvolvedor.</br>
 🚀 Sempre aberto a colaborações, feedbacks e novas ideias!
 
 </p>
